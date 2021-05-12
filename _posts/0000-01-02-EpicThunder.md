@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Now to undo your hard work of pressing the right arrow
 Use the left arrow to go back!
